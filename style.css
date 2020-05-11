@@ -1,0 +1,11 @@
+.album {
+  width: 200px;
+}
+
+body {
+  background-color: darkslategray;
+}
+
+body > div {
+  background-color: grey;
+}
